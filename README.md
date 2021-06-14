@@ -4,7 +4,7 @@
 
 🤩 And starting out in Java now
 
-#### Feel free to get acquainted with my pin projects below or you can also review [all my projects](https://github.com/a-cha?tab=repositories)
+#### Feel free to check put the pinned projects below or you can also review [all my projects](https://github.com/a-cha?tab=repositories)
 
 <!---
 a-cha/a-cha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
