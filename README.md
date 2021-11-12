@@ -4,7 +4,7 @@
 
 🤩 And starting out in Java now
 
-#### Feel free to check out [my sv](https://clck.ru/Vbofm)
+#### Feel free to check out [my CV](https://clck.ru/Vbofm)
 
 <!---
 a-cha/a-cha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
